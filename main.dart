@@ -1,6 +1,6 @@
 // 192855037 - İlhami Tuğral
 
-String university = 'Üşak Üniversitesi';
+String university = 'Uşak Üniversitesi';
 
 void main() {
   print("${university}'ne hoşgeldiniz");
